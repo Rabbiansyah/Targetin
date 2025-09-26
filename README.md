@@ -1,4 +1,4 @@
-# 🎯 GoalTracker - Aplikasi Manajemen Goal & Tracking
+# 🎯 Targetin - Aplikasi Manajemen Goal & Tracking
 
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-12.0-red?style=for-the-badge&logo=laravel" alt="Laravel">
@@ -7,9 +7,9 @@
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License">
 </p>
 
-## 📋 Tentang GoalTracker
+## 📋 Tentang Targetin
 
-**GoalTracker** adalah aplikasi web modern yang dirancang untuk membantu pengguna dalam menetapkan, melacak, dan mencapai tujuan mereka secara efektif. Aplikasi ini dibangun menggunakan Laravel 12 dengan antarmuka yang responsif dan user-friendly menggunakan TailwindCSS.
+**Targetin** adalah aplikasi web modern yang dirancang untuk membantu pengguna dalam menetapkan, melacak, dan mencapai tujuan mereka secara efektif. Aplikasi ini dibangun menggunakan Laravel 12 dengan antarmuka yang responsif dan user-friendly menggunakan TailwindCSS.
 
 ### ✨ Fitur Utama
 
@@ -65,7 +65,7 @@ Pastikan sistem Anda memiliki:
    DB_CONNECTION=mysql
    DB_HOST=127.0.0.1
    DB_PORT=3306
-   DB_DATABASE=goaltracker
+   DB_DATABASE=Targetin
    DB_USERNAME=your_username
    DB_PASSWORD=your_password
    ```
@@ -243,4 +243,4 @@ Dikembangkan dengan ❤️ menggunakan Laravel Framework.
 
 ---
 
-**GoalTracker** - Wujudkan Impian, Capai Tujuan! 🎯
+**Targetin** - Wujudkan Impian, Capai Tujuan! 🎯
